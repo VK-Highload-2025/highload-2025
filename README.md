@@ -1,7 +1,7 @@
 # highload-2025
 Курсовой проект 2025 года [курса «Разработка high-load систем»](https://education.vk.company/curriculum/program/discipline/2007/) [Корпоративной магистерской программы «Распределённые веб-сервисы / Web scale systems»](https://dws.itmo.ru/).
 
-## Этап 1. HTTP + storage (deadline TBA)
+## Этап 1. HTTP + storage (deadline 30 сентября 2025, 17:10 МСК)
 ### Make
 Так можно запустить тесты:
 ```
